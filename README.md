@@ -1,1 +1,1 @@
-# Face-Mask-Detection-using-Yolo-V7
+# Face-Mask-Detection-using-Yolo
